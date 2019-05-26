@@ -1,0 +1,3 @@
+rootProject.name = 'blinders_3882'
+
+include ':app'
